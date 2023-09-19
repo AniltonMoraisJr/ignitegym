@@ -5,7 +5,7 @@ import { Center, Text } from "native-base";
 const History: React.FC = () => {
   return (
     <Center flex={1}>
-      <Text>History</Text>
+      <Text color={"white"}>History</Text>
     </Center>
   );
 };
